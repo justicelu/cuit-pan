@@ -2,7 +2,7 @@ const path = require('path')
 
 module.exports = {
 	// 选项...
-	publicPath: '/',
+	publicPath: './',
   lintOnSave: false,
 	// 配置项不懂的地方，请查看 Vue CLI 官方文档 https://cli.vuejs.org/zh/config/#devserver
 	devServer: {
